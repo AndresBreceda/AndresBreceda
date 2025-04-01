@@ -11,7 +11,7 @@ I'm an student at University Cuauthemoc in Aguascalientes, .
 [youtube]: https://www.youtube.com/@andresesquivel5460
 <br /><br />
 
-You can check out my proyects:
+You can check out my proyects:<br /><br />
 -Aguascalientes site: 
 
 ---
