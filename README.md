@@ -8,11 +8,10 @@ I'm an student at University Cuauthemoc in Aguascalientes, .
 <br />
 [mail]: a.e.breceda@gmail.com
 <br />
-[youtube]: https://www.youtube.com/@andresesquivel5460
-<br /><br />
+
 
 You can check out my proyects:<br /><br />
--Aguascalientes site: 
+
 
 ---
 
